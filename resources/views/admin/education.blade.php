@@ -1,7 +1,7 @@
 @extends('layouts.admin')
 
 @section('title')
-Educational Information
+Educational Informationn
 @endsection
 
 @section('css')
